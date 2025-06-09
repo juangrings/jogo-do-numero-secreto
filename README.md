@@ -8,6 +8,8 @@
 
 Projeto desenvolvido durante os **cursos de programação** pela Alura.
 
+Jogo em que é gerado, a cada nova rodada, um número aleatório entre 1 e 10. As chances de acerto são ilimitadas.
+
 <h2> Formatos utilizados </h2>
 
 1. JavaScript
