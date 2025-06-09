@@ -17,7 +17,7 @@ Jogo em que é gerado, a cada nova rodada, um número aleatório entre 1 e 10. A
 3. CSS
 
 <h2> Acesse o jogo </h2>
-O game pode ser acessado a partir deste [link]([url](https://jogo-delta-virid.vercel.app/)). 
+O game pode ser acessado a partir deste [link](https://jogo-delta-virid.vercel.app).
 
 <h2> Quem sou eu </h2>
 
