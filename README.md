@@ -21,5 +21,5 @@ O game pode ser acessado a partir deste [link](https://jogo-delta-virid.vercel.a
 
 <h2> Quem sou eu </h2>
 
-* Juan Grings, 25 anos
+* Juan Grings, 26 anos
 * Jornalista e curioso pela área de tecnologia
